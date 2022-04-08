@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham
 - 👀 I’m interested in Web Development and Mobile App Development
-- 🌱 I’m currently learning  Core java ,And Web development
+- 🌱 I’m currently working in Web development as Front end developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
